@@ -1,0 +1,18 @@
+{
+  "name": "material",
+  "version": "1.0.0",
+  "description": "Material design sample",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jwalkcoding",
+  "license": "ISC",
+  "dependencies": {
+    "angular-ui-grid": "^3.2.9",
+    "angular-ui-router": "^0.3.1",
+    "angularjs": "0.0.1",
+    "bootstrap-material-design": "^0.5.10",
+    "material-design-lite": "^1.2.1"
+  }
+}

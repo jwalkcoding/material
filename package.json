@@ -15,8 +15,18 @@
     "bootstrap-material-design": "^0.5.10",
     "express": "^4.16.2",
     "express-graphql": "^0.6.11",
+    "graphql": "^0.11.7",
     "material-design-lite": "^1.2.1",
     "mysql": "^2.15.0",
     "nodemon": "^1.12.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwalkcoding/material.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jwalkcoding/material/issues"
+  },
+  "homepage": "https://github.com/jwalkcoding/material#readme"
 }

@@ -1,32 +1,35 @@
 {
-  "name": "material",
-  "version": "1.0.0",
-  "description": "Material design sample",
-  "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "jwalkcoding",
-  "license": "ISC",
-  "dependencies": {
-    "angular-ui-grid": "^3.2.9",
-    "angular-ui-router": "^0.3.1",
-    "angularjs": "0.0.1",
-    "bootstrap-material-design": "^0.5.10",
-    "express": "^4.16.2",
-    "express-graphql": "^0.6.11",
-    "graphql": "^0.11.7",
-    "material-design-lite": "^1.2.1",
-    "mysql": "^2.15.0",
-    "nodemon": "^1.12.4"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jwalkcoding/material.git"
-  },
-  "bugs": {
-    "url": "https://github.com/jwalkcoding/material/issues"
-  },
-  "homepage": "https://github.com/jwalkcoding/material#readme"
+    "name": "material",
+    "version": "1.0.0",
+    "description": "Material design sample",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "jwalkcoding",
+    "license": "ISC",
+    "dependencies": {
+        "angular-ui-grid": "^3.2.9",
+        "angular-ui-router": "^0.3.1",
+        "angularjs": "0.0.1",
+        "bootstrap-material-design": "^0.5.10",
+        "express": "^4.16.2",
+        "express-graphql": "^0.6.11",
+        "graphql": "^0.11.7",
+        "material-design-lite": "^1.2.1",
+        "mysql": "^2.15.0"
+
+    },
+    "devDependencies": {
+        "nodemon": "^1.12.4"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jwalkcoding/material.git"
+    },
+
+    "bugs": {
+        "url": "https://github.com/jwalkcoding/material/issues"
+    },
+    "homepage": "https://github.com/jwalkcoding/material#readme"
 }
